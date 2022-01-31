@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VoidShell
 - 👀 I’m interested in FE
 - 🌱 I’m currently learning JS, TS, React
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m working in bankware global
 - 📫 How to reach me voidshells@gmail.com
 
 <!---
